@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @alidzulwi
-- 👀 I’m interested in ...maps, models, GIS, 
-- 🌱 I’m currently learning ...the programming languages R and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...amathieledzha@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @alidzulwi Mathieledzha
+- 👀 I’m interested in learning new things in web development
+- 🌱 I’m currently learning programming languages R and Python
+- 💞️ I’m looking to collaborate on articles that involve GIS
+- 📫 How to reach me: amathieledzha@gmail.com
+- 😄 Pronouns: she/her
 
 <!---
 alidzulwi/alidzulwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
